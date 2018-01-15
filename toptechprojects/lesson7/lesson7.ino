@@ -1,5 +1,5 @@
 /*
-Created on Thursday, Jan 13th 2018
+Created on Jan 13th 2018
 
 @author: smercy
 
